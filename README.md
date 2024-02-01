@@ -1,12 +1,12 @@
-# .VCF File Conversions From 2.1 to any (3.0/3.1/4)
+# .VCF File /vCard Conversions From 2.1 to any (3.0/3.1/4)
 ## It resolves all the below issues, without sharing/exposing your data
-#### Resolve iCloud icompatbility / contacts(.vcf file) uploads errors
+#### Resolve iCloud icompatbility / contacts(.vcf file /vCard) uploads errors
 #### Resolve iCloud unspported contacts issues
 #### Resolve iCloud Missing Contact Issues Manually without exposing/sharing your data with any entity
 #### Conversion of the Android contacts to iPhone supported contacts
 #### Conversion of the Android contacts to iPhone supported contacts
 
-###### With this you can convert the .vcf version 2.1 to 3.0/3.1 supported by iPhone/iCloud. You can export you android contacts and use save the on your iPhone
+###### With this you can convert the .vcf file/vCard version 2.1 to 3.0/3.1 supported by iPhone/iCloud. You can export you android contacts and use save the on your iPhone
 
 ## Two Methods are available
 ### 1. Manually performing below steps/ If you can't understand code;
